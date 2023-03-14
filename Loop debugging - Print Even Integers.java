@@ -26,6 +26,7 @@ Sample Input:-
 
 Sample Output:-
 2 4 6
+
 */
 
 public static void For_Loop(int n){
