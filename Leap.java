@@ -42,6 +42,6 @@ static void LeapYear(int year){
     }
     else{
         System.out.println("NO");
-    }
+        }
     }
 }
